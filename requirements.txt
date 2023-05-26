@@ -1,0 +1,2 @@
+Afinn
+face-detection
