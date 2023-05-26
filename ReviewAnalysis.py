@@ -6,7 +6,7 @@ sia = Afinn()
 def sentiment_score(sentence):
     # Creates and appends reviews to text file
     def create_review(status):
-        with open(f"./Reviews/{status}.txt", "a+") as text_file:
+        with open(f"./{status}.txt", "a+") as text_file:
             text_file.writelines(sentence)
 
     # Creates a sentiment object
