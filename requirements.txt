@@ -1,3 +1,4 @@
 Afinn
 face-recognition
 opencv-python-headless
+dlib
