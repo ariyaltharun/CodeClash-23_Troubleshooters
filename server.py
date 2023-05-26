@@ -1,6 +1,6 @@
 import streamlit as st
 from ReviewAnalysis import sentiment_score
-from RealTimeFaceDetection import start_capture
+# from RealTimeFaceDetection import start_capture
 
 
 # Title
@@ -8,9 +8,9 @@ st.title("Click capture to mark your attendence")
 
 
 # Capture button
-capture = st.button("Capture")
-if capture:
-    start_capture()
+# capture = st.button("Capture")
+# if capture:
+#     start_capture()
 
 
 # -------------------------- Dont touch ------------------------- #
