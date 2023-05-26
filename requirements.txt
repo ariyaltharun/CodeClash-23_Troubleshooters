@@ -1,3 +1,2 @@
 Afinn
 opencv-python-headless
-face-recognition
