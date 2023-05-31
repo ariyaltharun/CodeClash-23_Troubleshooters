@@ -1,3 +1,4 @@
 Afinn
 opencv-python-headless
 cmake
+face-recognition
